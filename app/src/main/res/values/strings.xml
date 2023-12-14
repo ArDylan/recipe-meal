@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecipeMeal</string>
+    <string name="dev_name">Archie Dylan Ramadhan</string>
+    <string name="dev_email">archie3036@gmail.com</string>
+    <string name="dev_image">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:78374f688bb2722fdc48487f6b59e20c20231003183509.png</string>
+    <string name="no_recipe">No Recipe</string>
+    <string name="no_recipe_to_display">No recipe to display</string>
+    <string name="home_nav">Home</string>
+    <string name="favorite_nav">Favorite</string>
+    <string name="about_nav">About Me</string>
+</resources>
